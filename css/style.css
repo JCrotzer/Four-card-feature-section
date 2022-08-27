@@ -99,6 +99,8 @@ header p {
     margin: 40px 0 0 260px;
 }
 
+/* ***DESKTOP*** */
+
 @media screen and (min-width : 625px) {
     
     header {
